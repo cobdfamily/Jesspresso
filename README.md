@@ -8,7 +8,7 @@ The purpose of this project is two-fold. Firstly, to create a platform for addin
 This is a work in-progress. Currently, we are in the research gathering stages and are pulling together all that is known about automating these coffee machines.
 
 ## Supported Appliances
-You can find a [list of supported appliances here](./Appliances/Phillips/EP/README.md)
+You can find a [list of supported appliances here](./Appliances/Philips/EP/README.md)
 
 ## Parts List
 
