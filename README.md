@@ -7,6 +7,9 @@ The purpose of this project is two-fold. Firstly, to create a platform for addin
 ## Status
 This is a work in-progress. Currently, we are in the research gathering stages and are pulling together all that is known about automating these coffee machines.
 
+## Supported Appliances
+You can find a [list of supported appliances here](./Appliances/Phillips/EP/README.md)
+
 ## Parts List
 
 + [92315-0810 Molex from Mouser Canada](https://www.mouser.ca/ProductDetail/Molex/92315-0810?qs=aFh11D4MR00yO3dXBCwL3A%3D%3D)
