@@ -19,3 +19,4 @@ You can find a [list of supported appliances here](./Appliances/Philips/EP/READM
 + [ESPHome‑Philips‑Smart‑Coffee](https://github.com/TillFleisch/ESPHome-Philips-Smart-Coffee) by [@TillFleisch](https://github.com/TillFleisch) on Github
 + [SmartPhilips2200](https://github.com/chris7topher/SmartPhilips2200) by [@chris7topher](https://github.com/chris7topher) on Github
 + [ESP-Philips-5400-Coffee-Machine](https://github.com/DivanX10/ESP-Philips-5400-Coffee-Machine/blob/main/README_EN.md) by [@DivanX10](https://github.com/DivanX10) on Github
++ [Philips 3200 Coffee Machine - part 1](https://hackcorrelation.blogspot.com/2021/05/philips-3200-coffee-machine-part-1.html) by [@Ligius](https://www.blogger.com/profile/04631687424641789584) on the [HACK CORRELATION blog](https://hackcorrelation.blogspot.com/)
