@@ -1,6 +1,6 @@
 # Communication Protocol
 
-The underlying protocol used by this this series of coffee machines is quite simple.
+The underlying protocol used by this series of coffee machines is quite simple.
 
 The mainboard does all the heavy lifting and the display unit is only responsible for I/O.
 
